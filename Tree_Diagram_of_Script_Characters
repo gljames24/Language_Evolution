@@ -1,0 +1,738 @@
+graph LR
+ 
+subgraph LanguageScripts
+ 
+Ox("𓃾")
+House("𓉐")
+Camel("𓌙")
+DagFish("𓇯/𓉿")
+Jubilation("𓀠")
+Hook("𓏲")
+Fowl("𓌉")
+Sword("𓏭")
+Manacle("𓍿")
+Wall("𓈈")
+Courtyard("𓉗")
+Thread("𓎛")
+Wheel("𓄤")
+Arm("𓂝")
+Palm("𓂧")
+Goad("𓌅")
+Crook("𓋿")
+Water("𓈖")
+Serpent("𓆓")
+Pillar("𓊽")
+Peg("𓊽")
+Eye("𓁹")
+Mouth("𓂋")
+Plant("𓇑")
+Needle("𓃻/𓎗")
+Head("𓁶")
+Tooth("𓌓")
+Sun("𓇴")
+Mark("𓏴")
+ 
+ProtoSinaiticAlpu
+ProtoSinaiticBayto
+ProtoSinaiticGamlu
+ProtoSinaiticDaltu
+ProtoSinaiticHaw
+ProtoSinaiticWawu
+ProtoSinaiticZaynu
+ProtoSinaiticHaytu
+ProtoSinaiticTaytu
+ProtoSinaiticYadu
+ProtoSinaiticKapu
+ProtoSinaiticLamdu
+ProtoSinaiticMayim
+ProtoSinaiticNahsu
+ProtoSinaiticSamku
+ProtoSinaiticAynu
+ProtoSinaiticPu
+ProtoSinaiticSadu
+ProtoSinaiticQupu
+ProtoSinaiticRasu
+ProtoSinaiticSinnu
+ProtoSinaiticTawu
+PhoenicianAlep("𐤀")
+PhoenicianBet("𐤁")
+PhoenicianGiml("𐤂")
+PhoenicianDalet("𐤃")
+PhoenicianHe("𐤄")
+PhoenicianWau("𐤅")
+PhoenicianZayin("𐤆")
+PhoenicianHet("𐤇")
+PhoenicianTet("𐤈")
+PhoenicianYod("𐤉")
+PhoenicianKap("𐤊")
+PhoenicianLamed("𐤋")
+PhoenicianMem("𐤌")
+PhoenicianNun("𐤍")
+PhoenicianSamek("𐤎")
+PhoenicianAyin("𐤏")
+PhoenicianPe("𐤐")
+PhoenicianSade("𐤑")
+PhoenicianQop("𐤒")
+PhoenicianRes("𐤓")
+PhoenicianSin("𐤔")
+PhoenicianTaw("𐤕")
+ASAHe("𐩠")
+ASALamedh("𐩡")
+ASAHeth("𐩢")
+ASAMem("𐩣")
+ASAQoph("𐩤")
+ASAWaw("𐩥")
+ASAShin("𐩦")
+ASAResh("𐩧")
+ASABeth("𐩨")
+ASATaw("𐩩")
+ASASat("𐩪")
+ASAKaph("𐩫")
+ASANun("𐩬")
+ASAKheth("𐩭")
+ASASadhe("𐩮")
+ASASamekh("𐩯")
+ASAFe("𐩰")
+ASAAlef("𐩱")
+ASAAyn("𐩲")
+ASADhadhe("𐩳")
+ASAGimel("𐩴")
+ASADaleth("𐩵")
+ASAGhayn("𐩶")
+ASATeth("𐩷")
+ASAZayn("𐩸")
+ASADhaleth("𐩹")
+ASAYodh("𐩺")
+ASAThaw("𐩻")
+ASATheth("𐩼")
+GeezHoy("ሀ")
+GeezLäwe("ለ")
+GeezHäwt("ሐ")
+GeezMay("መ")
+GeezSäwt("ሠ")
+GeezRas("ረ")
+GeezSat("ሰ")
+GeezKaf("ቀ")
+GeezBet("በ")
+GeezTäwe("ተ")
+GeezḪarm("ኀ")
+GeezNähas("ነ")
+GeezÄlf("አ")
+GeezKaf("ከ")
+GeezWäwe("ወ")
+GeezÄyn("ዐ")
+GeezZäy("ዘ")
+GeezYämän("የ")
+GeezDänt("ደ")
+GeezGäml("ገ")
+GeezṬäyt("ጠ")
+GeezPäyt("ጰ")
+GeezṢädäy("ጸ")
+GeezṢäppä("ፀ")
+GeezÄf("ፈ")
+GeezPsa("ፐ")
+ArchaicAlpha
+ArchaicBeta
+ArchaicGamma
+ArchaicDelta
+ArchaicEpsilon
+Digamma("Ϝ")
+ArchaicZeta
+Hēta("Ͱ")
+ArchaicEta
+ArchaicTheta
+ArchaicIota
+ArchaicKappa
+ArchaicLambda
+ArchaicMu
+ArchaicNu
+ArchaicXi
+ArchaicOmicron
+ArchaicPi
+San("Ϻ")
+Qoppa("Ϙ")
+ArchaicRho
+ArchaicSigma
+ArchaicTau
+ArchaicUpsilon
+ArchaicPhi
+ArchaicChi
+ArchaicPsi
+ArchaicSampi("Ͳ")
+GreekAlpha("Α")
+GreekBeta("Β")
+GreekGamma("Γ")
+GreekDelta("Δ")
+GreekEpsilon("Ε")
+GreekStigma("Ϛ")
+GreekZeta("Ζ")
+GreekEta("Η")
+GreekTheta("Θ")
+GreekIota("Ι")
+GreekKappa("Κ")
+GreekLambda("Λ")
+GreekMu("Μ")
+GreekNu("Ν")
+GreekXi("Ξ")
+GreekOmicron("Ο")
+GreekPi("Π")
+GreekRho("Ρ")
+GreekSigma("Σ")
+GreekTau("Τ")
+GreekUpsilon("Υ")
+GreekPhi("Φ")
+GreekChi("Χ")
+GreekPsi("Ψ")
+GreekOmega("Ω")
+GreekSampi("ϡ")
+ 
+%%Old Italic (Mostly Etruscan) 700-100 BCE
+OldItalicA("𐌀")
+OldItalicB("𐌁")
+OldItalicC("𐌂")
+OldItalicD("𐌃")
+OldItalicE("𐌄")
+OldItalicV("𐌅")
+OldItalicZ("𐌆")
+OldItalicH("𐌇")
+OldItalicÞ("𐌈")
+OldItalicI("𐌉")
+OldItalicK("𐌊")
+OldItalicL("𐌋")
+OldItalicM("𐌌")
+OldItalicN("𐌍")
+OldItalicEsh("𐌎")
+OldItalicO("𐌏")
+OldItalicP("𐌐")
+OldItalicŚ("𐌑")
+OldItalicQ("𐌒")
+OldItalicR("𐌓")
+OldItalicS("𐌔")
+OldItalicT("𐌕")
+OldItalicU("𐌖")
+OldItalicX("𐌗")
+OldItalicPhe("𐌘")
+OldItalicKhe("𐌙")
+OldItalicF("𐌚")
+OldItalicErs("𐌛")
+OldItalicChe("𐌜")
+OldItalicUU("𐌞")
+OldItalicEss("𐌟")
+OldItalicYe("𐌭")
+OldItalicNorthernTse("𐌮")
+OldItalicSouthernTse("𐌯")
+ 
+%%700-200 BCE
+%%LydianA("𐤠")
+%%LydianB("𐤡")
+%%LydianG("𐤢")
+%%LydianD("𐤣")
+%%LydianE("𐤤")
+LydianV("𐤥")
+%%LydianI("𐤦")
+%%LydianJ("𐤧")
+%%LydianK("𐤨")
+%%LydianL("𐤩")
+%%LydianM("𐤪")
+%%LydianN("𐤫")
+%%LydianO("𐤬")
+LydianR("𐤭")
+%%LydianS("𐤮")
+%%LydianT("𐤯")
+%%LydianU("𐤰")
+LydianF("𐤱")
+%%LydianQ("𐤲")
+%%LydianŠ("𐤳")
+%%LydianΤ("𐤴")
+%%LydianĀ("𐤵")
+ 
+%%CarianA("𐊠")
+%%CarianP2("𐊡")
+%%CarianD("𐊢")
+%%CarianD("𐊣")
+%%CarianE("𐊤")
+%%CarianF("𐊥")
+%%CarianI("𐊦")
+%%CarianH("𐊧")
+%%CarianÞ("𐊨")
+%%CarianG("𐊩")
+%%CarianN("𐊪")
+%%CarianO("𐊫")
+%%CarianD2("𐊬")
+%%CarianT("𐊭")
+%%CarianSh("𐊮")
+%%CarianSh2("𐊯")
+%%CarianLd2("𐋎")
+ 
+%% Futhark 100-800CE
+ElderFutharkFehu("ᚠ")
+ElderFutharkŪruz("ᚢ")
+ElderFutharkÞurisaz("ᚦ")
+ElderFutharkAnsuz("ᚨ")
+ElderFutharkRaidō("ᚱ")
+ElderFutharkKaunan("ᚲ")
+ElderFutharkGebō("ᚷ")
+ElderFutharkWunjō("ᚹ")
+ElderFutharkHagalaz("ᚺ")
+ElderFutharkHægl("ᚻ")
+ElderFutharkNaudiz("ᚾ")
+ElderFutharkĪsaz("ᛁ")
+ElderFutharkJēra("ᛃ")
+ElderFutharkĪwaz("ᛇ")
+ElderFutharkPerþ("ᛈ")
+ElderFutharkAlgiz("ᛉ")
+ElderFutharkSōwilō("ᛊ")
+ElderFutharkSōwilō2("ᛋ")
+ElderFutharkTīwaz("ᛏ")
+ElderFutharkBerkanan("ᛒ")
+ElderFutharkEhwaz("ᛖ")
+ElderFutharkMannaz("ᛗ")
+ElderFutharkLaguz("ᛚ")
+ElderFutharkIngwaz("ᛜ")
+ElderFutharkŌþila("ᛟ")
+ElderFutharkDagaz("ᛞ")
+CopticAlpha("Ⲁ")
+CopticBeta("Ⲃ")
+CopticGamma("Ⲅ")
+CopticDelta("Ⲇ")
+CopticEey("Ⲉ")
+CopticSoou("Ⲋ")
+CopticZeta("Ⲍ")
+CopticEta("Ⲏ")
+CopticTheta("Ⲑ")
+CopticIota("Ⲓ")
+CopticKappa("Ⲕ")
+CopticLola("Ⲗ")
+CopticMey("Ⲙ")
+CopticNey("Ⲛ")
+CopticExl("Ⲝ")
+CopticO("Ⲟ")
+CopticPi("Ⲡ")
+CopticRoo("Ⲣ")
+CopticSeema("Ⲥ")
+CopticTav("Ⲧ")
+CopticUpsilon("Ⲩ")
+CopticPhi("Ⲫ")
+CopticChi("Ⲭ")
+CopticEpsi("Ⲯ")
+CopticOou("Ⲱ")
+%%CopticShai("Ϣ")
+%%CopticFai("Ϥ")
+%%CopticKhai("Ϧ/Ⳉ")
+%%CopticHori("Ϩ")
+%%CopticJanja("Ϫ")
+%%CopticCheema("Ϭ")
+CopticTi("Ϯ")
+CopticSampi("Ⳁ")
+GothicAsha("𐌰")
+GothicBairkan("𐌱")
+GothicGiba("𐌲")
+GothicDags("𐌳")
+GothicAihvus("𐌴")
+GothicQairthra("𐌵")
+GothicIuja("𐌶")
+GothicHagl("𐌷")
+GothicThiuth("𐌸")
+GothicEis("𐌹")
+GothicKusma("𐌺")
+GothicLagus("𐌻")
+GothicManna("𐌼")
+GothicNauths("𐌽")
+GothicJer("𐌾")
+GothicUrus("𐌿")
+GothicPairthra("𐍀")
+GothicNinety("𐍁")
+GothicRaida("𐍂")
+GothicSauil("𐍃")
+GothicTeiws("𐍄")
+GothicWinja("𐍅")
+GothicFaihu("𐍆")
+GothicIggws("𐍇")
+GothicHwair("𐍈")
+GothicOthal("𐍉")
+GothicNineHundred("𐍊")
+ 
+%%Trying to make a path to latin and greek miniscule
+%%NewRomanCursive
+%%Uncial
+%%HalfUncial
+ 
+GreekLowerAlpha("α")
+ 
+LatinAin("ᴥ")
+LatinVend("Ꝩ")
+LatinThorn("Þ")
+ 
+%%Imperial Aramaic
+AramaicAleph("𐡀")
+AramaicBeth("𐡁")
+AramaicGamal("𐡂")
+AramaicDalath("𐡃")
+AramaicHe("𐡄")
+AramaicWaw("𐡅")
+AramaicZain("𐡆")
+AramaicKhēth("𐡇")
+AramaicṬēth("𐡈")
+AramaicIodh("𐡉")
+AramaicKāph("𐡊")
+AramaicLāmadh("𐡋")
+AramaicMem("𐡌")
+AramaicNun("𐡍")
+AramaicSemkath("𐡎")
+AramaicAyin("𐡏")
+AramaicPē("𐡐")
+AramaicṢādhē("𐡑")
+AramaicQoph("𐡒")
+AramaicRēš("𐡓")
+AramaicŠin("𐡔")
+AramaicTaw("𐡕")
+HebrewAlef("א")
+HebrewBet("ב")
+HebrewGimel("ג")
+HebrewDalet("ד")
+HebrewHe("ה")
+HebrewVav("ו")
+HebrewZayin("ז")
+HebrewChet("ח")
+HebrewTet("ט")
+HebrewYod("י")
+HebrewKaf("כ/ך")
+HebrewLamed("ל")
+HebrewMem("מ/ם")
+HebrewNun("נ/ן")
+HebrewSamekh("ס")
+HebrewAyin("ע")
+HebrewPe("פ/ף")
+HebrewTsadi("צ/ץ")
+HebrewQof("ק")
+HebrewResh("ר")
+HebrewShin("ש")
+HebrewTav("ת")
+ 
+%%Paleo-Hebrew Sister with Aramaic and Greek child Samaritan 1000BCE-135CE
+%%Samaritan
+%%Palmyrene 100BCE-300CE 𐡶𐡵𐡴𐡳𐡲𐡱𐡰𐡯𐡮𐡭𐡬𐡫𐡪𐡩𐡨𐡧𐡦𐡥𐡤𐡣𐡢𐡡
+PalmreneAleph("𐡠")
+%%Syriac 1CE From Aramaic Child: old turkic, old hungarian, old uyghur, mongolian, manichaean   ܬ ܐ     ܒ   ܓ   ܕ   ܗ   ܘ   ܙ   ܚ   ܛ   ܝ   ܟ   ܠ   ܡ   ܢ   ܣ   ܥ   ܦ   ܨ   ܩ   ܪ   ܫ
+ 
+%%BrahmicA("𑀅")
+%%BrahmicĀ("𑀆")
+%%BrahmicI("𑀇")
+%%BrahmicĪ("𑀈")
+%%BrahmicU("𑀉")
+%%BrahmicŪ("𑀊")
+%%BrahmicE("𑀏")
+%%BrahmicO("𑀑")
+%%BrahmicAI("𑀐")
+%%BrahmicAU("𑀒")
+%%BrahmicKa("𑀓")
+%%BrahmicKha("𑀔")
+%%BrahmicGa("𑀕")
+%%BrahmicGha("𑀖")
+%%BrahmicṄa("𑀗")
+%%BrahmicCa("𑀘")
+%%BrahmicCha("𑀙")
+%%BrahmicJa("𑀚")
+%%BrahmicJha("𑀛")
+%%BrahmicÑa("𑀜")
+%%BrahmicṬa("𑀝")
+%%BrahmicṬha("𑀞")
+%%BrahmicḌa("𑀟")
+%%BrahmicḌha("𑀠")
+%%BrahmicṆa("𑀡")
+%%BrahmicTa("𑀢")
+%%BrahmicTha("𑀣")
+%%BrahmicDa("𑀤")
+%%BrahmicDha("𑀥")
+%%BrahmicNa("𑀦")
+%%BrahmicPa("𑀧")
+%%BrahmicPha("𑀨")
+%%BrahmicBa("𑀩")
+%%BrahmicBha("𑀪")
+%%BrahmicMa("𑀫")
+%%BrahmicYa("𑀬")
+%%BrahmicRa("𑀭")
+%%BrahmicLa("𑀮")
+%%BrahmicVa("𑀯")
+%%BrahmicŚa("𑀰")
+%%BrahmicṢa("𑀱")
+%%BrahmicSa("𑀲")
+%%BrahmicHa("𑀳")
+%%BrahmicḶa("𑀴")
+ 
+   subgraph Aleph
+       Ox --> ProtoSinaiticAlpu --> PhoenicianAlep
+       PhoenicianAlep --> AramaicAleph %%-.-> BrahmicA
+       AramaicAleph --> HebrewAlef & PalmreneAleph("𐡠")
+       PhoenicianAlep --> ArchaicAlpha --> GreekAlpha
+       ProtoSinaiticAlpu --> ASAAlef --> GeezÄlf
+       GreekAlpha --> CopticAlpha & GothicAsha
+       ArchaicAlpha ---> OldItalicA --> A & ElderFutharkAnsuz
+   end
+   subgraph Bet
+       House --> ProtoSinaiticBayto --> PhoenicianBet --> ArchaicBeta --> GreekBeta
+       ProtoSinaiticBayto --> ASABeth
+       PhoenicianBet --> AramaicBeth -..-> BrahmicBa
+       AramaicBeth --> HebrewBet
+       GreekBeta --> CopticBeta
+       GreekBeta --> GothicBairkan
+       ArchaicBeta --> OldItalicB --> B
+       OldItalicB --> ElderFutharkBerkanan
+   end
+  
+   subgraph Giml
+       Camel --> ProtoSinaiticGamlu --> PhoenicianGiml --> ArchaicGamma --> GreekGamma --> CopticGamma
+       ProtoSinaiticGamlu --> ASAGimel
+       PhoenicianGiml --> AramaicGamal --> HebrewGimel
+       GreekGamma --> GothicGiba
+       ArchaicGamma --> OldItalicC --> C
+       OldItalicC --> ElderFutharkKaunan
+       OldItalicC --> GothicJer
+   end
+   subgraph Dalet
+       DagFish --> ProtoSinaiticDaltu --> PhoenicianDalet --> ArchaicDelta --> GreekDelta
+       ProtoSinaiticDaltu --> ASADaleth
+       PhoenicianDalet --> AramaicDalath --> HebrewDalet
+       GreekDelta --> CopticDelta
+       GreekDelta --> GothicDags
+       ArchaicDelta --> OldItalicD --> D
+       OldItalicD --> ElderFutharkDagaz
+   end
+   subgraph He
+       Jubilation --> ProtoSinaiticHaw --> PhoenicianHe -->  ArchaicEpsilon --> GreekEpsilon
+       ProtoSinaiticHaw --> ASAHe
+       PhoenicianHe --> AramaicHe --> HebrewHe
+       GreekEpsilon --> CopticEey
+       GreekEpsilon --> GothicAihvus
+       ArchaicEpsilon --> OldItalicE
+   end
+   subgraph Wau
+       Fowl & Hook --> ProtoSinaiticWawu --> PhoenicianWau
+       ProtoSinaiticWawu --> ASAWaw
+       PhoenicianWau --> AramaicWaw & ArchaicUpsilon & Digamma
+       AramaicWaw --> HebrewVav
+   %%end
+ 
+   subgraph 6a
+       ArchaicUpsilon --> GreekUpsilon --> CopticUpsilon
+       GreekUpsilon --> GothicWinja
+       ArchaicUpsilon --> OldItalicU --> Y & V & ElderFutharkŪruz
+       V --> U & W
+       ElderFutharkŪruz --> GothicUrus
+   end
+   subgraph 6b
+       Digamma --> GreekStigma --> CopticSoou
+       Digamma --> OldItalicV --> ElderFutharkFehu
+       OldItalicV --> GothicFaihu
+       OldItalicV --> F
+       OldItalicF
+       LydianF
+   end
+   end
+  
+  
+   subgraph Zayin
+       Manacle --> ProtoSinaiticZaynu --> PhoenicianZayin --> ArchaicZeta --> GreekZeta --> CopticZeta
+       Sword --> ProtoSinaiticZaynu --> ASAZayn
+       PhoenicianZayin --> AramaicZain --> HebrewZayin
+       ArchaicZeta --> OldItalicZ
+       OldItalicZ --> Z
+       OldItalicZ --> GothicIuja
+   end
+  
+   subgraph Het
+       Wall & Thread & Courtyard --> ProtoSinaiticHaytu --> PhoenicianHet & ASAHeth
+       PhoenicianHet --> ArchaicEta & AramaicKhēth
+       ArchaicEta --> GreekEta --> CopticEta & GothicHagl
+       AramaicKhēth --> HebrewChet
+       ArchaicEta --> OldItalicH & Hēta
+       OldItalicH --> H & ElderFutharkHagalaz
+       ElderFutharkHagalaz --> ElderFutharkHægl
+   end
+   subgraph Tet
+       Wheel --> ProtoSinaiticTaytu --> PhoenicianTet --> ArchaicTheta --> GreekTheta
+       ProtoSinaiticTaytu --> ASATeth
+       PhoenicianTet --> AramaicṬēth --> HebrewTet
+       ArchaicTheta --> OldItalicÞ
+       GreekTheta --> CopticTheta & GothicHwair
+   end
+   subgraph Yod
+       Arm --> ProtoSinaiticYadu --> PhoenicianYod --> ArchaicIota --> GreekIota --> CopticIota
+       ProtoSinaiticYadu --> ASAYodh
+       PhoenicianYod --> AramaicIodh --> HebrewYod
+       ArchaicIota --> OldItalicI
+       GreekIota --> GothicEis
+       OldItalicI --> I
+       OldItalicI --> ElderFutharkĪsaz
+   end
+   subgraph Kap
+       Palm --> ProtoSinaiticKapu --> PhoenicianKap --> ArchaicKappa --> GreekKappa --> CopticKappa
+       ProtoSinaiticKapu --> ASAKaph
+       PhoenicianKap --> AramaicKāph --> HebrewKaf
+       ArchaicKappa --> OldItalicK
+       GreekKappa --> GothicKusma
+       OldItalicK --> K
+   end
+   subgraph Lamed
+       Crook --> ProtoSinaiticLamdu --> PhoenicianLamed --> ArchaicLambda --> GreekLambda --> CopticLola
+       Goad --> ProtoSinaiticLamdu --> ASALamedh
+       PhoenicianLamed --> AramaicLāmadh --> HebrewLamed
+       ArchaicLambda --> OldItalicL
+       GreekLambda --> GothicLagus
+       OldItalicL --> L
+       OldItalicL --> ElderFutharkLaguz
+   end
+   subgraph Mem
+       Water --> ProtoSinaiticMayim --> PhoenicianMem --> ArchaicMu --> GreekMu --> CopticMey
+       ProtoSinaiticMayim --> ASAMem
+       PhoenicianMem --> AramaicMem --> HebrewMem
+       ArchaicMu --> OldItalicM
+       GreekMu --> GothicManna
+       OldItalicM --> M & ElderFutharkMannaz
+   end
+   subgraph Nun
+       Serpent --> ProtoSinaiticNahsu --> PhoenicianNun --> ArchaicNu --> GreekNu --> CopticNey
+       ProtoSinaiticNahsu --> ASANun
+       PhoenicianNun --> AramaicNun --> HebrewNun
+       ArchaicNu --> OldItalicN --> GothicNauths
+       GreekNu --> GothicNauths
+       OldItalicN --> N & ElderFutharkNaudiz
+   end
+   subgraph Samek
+       Peg --> ProtoSinaiticSamku --> PhoenicianSamek --> ArchaicXi --> GreekXi --> CopticExl
+       Pillar --> ProtoSinaiticSamku --> ASASamekh
+       PhoenicianSamek --> AramaicSemkath --> HebrewSamekh
+       ArchaicXi --> OldItalicEsh
+   end
+   subgraph Ayin
+       Eye --> ProtoSinaiticAynu --> PhoenicianAyin --> ArchaicOmicron --> GreekOmicron --> CopticO
+       ProtoSinaiticAynu --> ASAAyn
+       PhoenicianAyin --> AramaicAyin --> HebrewAyin
+       ArchaicOmicron --> GreekOmega --> CopticOou
+       GreekOmega --> GothicOthal
+       ArchaicOmicron --> OldItalicO
+   end
+   subgraph Pe
+       Mouth --> ProtoSinaiticPu --> PhoenicianPe --> ArchaicPi --> GreekPi
+       ProtoSinaiticPu --> ASAFe
+       PhoenicianPe --> AramaicPē --> HebrewPe
+       GreekPi --> CopticPi
+       GreekPi --> GothicPairthra
+       ArchaicPi --> OldItalicP --> P
+       OldItalicP --> ElderFutharkPerþ
+      
+   end
+   subgraph Qop
+       Needle --> ProtoSinaiticQupu --> PhoenicianQop
+       ProtoSinaiticQupu --> ASAQoph
+       PhoenicianQop --> ArchaicPhi
+       PhoenicianQop --> Qoppa
+       PhoenicianQop --> AramaicQoph --> HebrewQof
+       subgraph 18a
+           ArchaicPhi --> GreekPhi --> CopticPhi
+           ArchaicPhi --> OldItalicPhe
+       end
+       subgraph 18b
+           Qoppa --> OldItalicQ --> Q
+           OldItalicQ --> GothicQairthra
+       end
+   end
+  
+   subgraph Res
+       Head --> ProtoSinaiticRasu --> PhoenicianRes --> ArchaicRho --> GreekRho
+       ProtoSinaiticRasu --> ASAResh --> GeezRas
+       PhoenicianRes --> AramaicRēš --> HebrewResh
+       ArchaicRho --> OldItalicR --> R
+       ArchaicRho --> LydianR
+       GreekRho --> CopticRoo
+       OldItalicR --> GothicRaida
+       OldItalicR --> ElderFutharkRaidō
+   end
+   subgraph Sin
+       Tooth --> ProtoSinaiticSinnu --> ASAShin
+       Sun -->  ProtoSinaiticSinnu --> PhoenicianSin --> ArchaicSigma
+       PhoenicianSin --> AramaicŠin --> HebrewShin
+       ArchaicSigma --> OldItalicS --> GothicSauil
+       ArchaicSigma --> GreekSigma
+       GreekSigma --> CopticSeema
+   end
+ 
+   subgraph Tsade
+       Plant --> ProtoSinaiticSadu --> PhoenicianSade --> San -..-> GreekSigma
+       ProtoSinaiticSadu --> ASASadhe --> GeezPsa
+       PhoenicianSade --> AramaicṢādhē --> HebrewTsadi
+       PhoenicianSade --> ArchaicSampi --> CopticSampi
+       ArchaicSampi --> CopticTi
+       ArchaicSampi --> OldItalicNorthernTse
+       ArchaicSampi --> GreekSampi --> OldItalicSouthernTse
+       San --> OldItalicŚ
+   end
+   subgraph Taw
+       Mark --> ProtoSinaiticTawu --> PhoenicianTaw --> ArchaicTau --> GreekTau --> CopticTav
+       ProtoSinaiticTawu --> ASAThaw
+       PhoenicianTaw --> AramaicTaw --> HebrewTav
+       ArchaicTau --> OldItalicT
+       OldItalicT --> ElderFutharkTīwaz
+       OldItalicT --> GothicTeiws
+   end
+   subgraph Chi
+       ArchaicChi --> GreekChi --> CopticChi
+       GreekChi --> GothicJer
+       ArchaicChi --> OldItalicX --> X
+       OldItalicX --> ElderFutharkGebō
+       OldItalicX --> GothicIggws
+   end
+   subgraph Psi
+       ArchaicPsi --> GreekPsi --> CopticEpsi
+       ArchaicPsi --> OldItalicKhe
+       GreekPsi --> GothicThiuth
+       GreekPhi --> GothicThiuth
+       OldItalicKhe --> ElderFutharkAlgiz
+   end
+   ASASat --> GeezSat
+   ASADhadhe --> GeezṢäppä
+end
+classDef WHITE fill:#fff
+classDef RED fill:#f33
+classDef ORANGE fill:#f73
+classDef YELLOW fill:#ff3
+classDef CHARTREUSE fill:#7f3
+classDef GREEN fill:#3f3
+classDef MINT fill:#3f7
+classDef CYAN fill:#3ff
+classDef AZURE fill:#37f
+classDef BLUE fill:#33f
+classDef PURPLE fill:#73f
+classDef MAGENTA fill:#f3f
+classDef ROSE fill:#f37
+classDef MINT_TINT fill:#6f9
+classDef MINT_SHADE fill:#1d5
+class LanguageScripts WHITE
+class Aleph RED
+class Bet ORANGE
+class Giml YELLOW
+class Dalet CHARTREUSE
+class He GREEN
+class Wau MINT
+class 6a MINT_TINT
+class 6b MINT_SHADE
+class Zayin CYAN
+class Het AZURE
+class Tet BLUE
+class Yod PURPLE
+class Kap MAGENTA
+class Lamed ROSE
+class Mem RED
+class Nun ORANGE
+class Samek YELLOW
+class Ayin CHARTREUSE
+class Pe GREEN
+class Qop MINT
+class 18a MINT_TINT
+class 18b MINT_SHADE
+class Res CYAN
+class Sin AZURE
+class Tsade BLUE
+class Taw PURPLE
+class Chi MAGENTA
+class Psi ROSE
