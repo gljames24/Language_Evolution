@@ -1,0 +1,70 @@
+graph TD
+
+Egyptian_Heiroglyphics --> Proto-Sinaitic
+Proto-Sinaitic --> Phoenician & Paleo-Hebrew & Ancient_South_Arabian & Ancient_North_Arabian
+Phoenician --> Aramaic & Archaic_Greek & Anatolian
+Ancient_South_Arabian --> Ge'ez
+
+subgraph Greek_Branch
+Archaic_Greek --> Cumaean-Euboean & Ionian
+Ionian --> Greek_Majuscule & Coptic & Gothic
+Greek_Majuscule --> Greek_Uncial --> Uncial & Cyrillic
+Cumaean-Euboean --> Etruscan & Oscan & Lepontic & South_Picene
+Etruscan --> Old_Italic --> Latin & Elder_Futhark
+Latin --> Celtic
+%%Etruscan looks eirily close to lydian wtf linguists!
+%%And Greek Uncial looks like gothic
+%%And gothic has the exact same names as runic
+Latin --> Trajan --> Rustic_Latin --> Uncial --> Half-Uncial & Visigothic
+Half-Uncial --> Luxeuil & Beneventan & Insular
+Luxeuil --> Carolingian --> Protogothic --> Textualis_Quadrata & Humanist
+Textualis_Quadrata --> Fraktur
+Humanist --> Times --> Serif_Latin_Print_Font_Families & Sans_Serif_Print_Font_Families
+%%I'm not sure how to add looped, italic, or ligature
+%%Need to add miniscule
+
+Anatolian --> Lydian & Carian & Phrygian & Lemnian
+
+end
+
+subgraph Aramaic_Branch
+Aramaic -.-> Brahmi
+Aramaic --> Kharosthi & Hebrew & Nabataean & Pahlavi & Syriac & Mandaic & Cursive_Aramaic
+Hebrew --> Yiddish & Square_Aramaic
+Nabataean --> Arabic
+Syriac --> Sogdian --> Manichaean & Old_Hungarian & Mongolian
+Cursive_Aramaic --> Palmyrene --> Decorative_Palmyrene
+
+subgraph Brahmic Subbranch
+Brahmi --> Gupta & Pallava & Kadamba & Vatteluttu
+Gupta --> Siddham & Tibetan & Sharada
+Siddham --> Nagari & Nepalese & Bengali-Assamese & Odia
+Nagari --> Devanagari & Gujarati
+Sharada --> Takri & Landa
+Pallava --> Tamil & Khmer & Old_Kawi & Cham & Old_Mon & Grantha
+Old_Kawi --> Lontara & Akssara_Bali & Batak & Baybayin & Javanese & Makasar & Old_Sudanese & Rencong & Rejang
+end
+
+end
+
+Sumero-Akkadian
+Cuneiform --> Ugaritic & Old_Persian
+%%Ugaritic has north and south variants
+
+Minoan_Heiroglyphics --> Linear_A & Cretan_Heiroglyphics
+Linear_A --> Linear_B & Cypro-Minoan
+Cypro-Minoan --> Cypriot
+
+classDef WHITE fill:#fff
+classDef RED fill:#f33
+classDef ORANGE fill:#f73
+classDef YELLOW fill:#ff3
+classDef CHARTREUSE fill:#7f3
+classDef GREEN fill:#3f3
+classDef MINT fill:#3f7
+classDef CYAN fill:#3ff
+classDef AZURE fill:#37f
+classDef BLUE fill:#33f
+classDef PURPLE fill:#73f
+classDef MAGENTA fill:#f3f
+classDef ROSE fill:#f37
